@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/logo2.jpg" title="Quality control system in construction industry" alt="snippet of Quality control system in construction industry website.">
+<img src="public/main.gif" title="Quality control system in construction industry" alt="snippet of Quality control system in construction industry website.">
 </p>
 
 </br>
@@ -45,6 +45,7 @@ The website is an extensive application that helps to manage projects in constru
 - create different language versions of the website,
 - securing access to the website resources without logging in,
 - cooperate with a team of programmers (including external backend developers),
+- work with user sessions,
 
 
 
@@ -54,9 +55,56 @@ The website is an extensive application that helps to manage projects in constru
 
 - language versions of the website
 
-  <img src="public/translation.gif" title="translation" alt="snippet of translation switcher." />
+  <img src="public/translation2.gif" title="translation" alt="snippet of translation switcher." />
 
 </br>
 
--
+- speed dial menu
+
+  <img src="public/speeddial.gif" title="speeddial" alt="snippet of speed dial menu." />
+
+</br>
+
+- dropdown menu and profile edit page
+
+  <img src="public/profile.gif" title="profile" alt="snippet of profile page." />
+
+</br>
+
+- generating modules for a new application
+
+  <img src="public/modules.gif" title="modules" alt="snippet of module generator." />
+
+</br>
+
+- adding a new project
+
+  <img src="public/projectadd.gif" title="projectadd" alt="snippet of adding project." />
+
+</br>
+
+- importing schedules and steps into the project
+
+  <img src="public/import.gif" title="import" alt="snippet of importing schedules and steps into the project." />
+
+</br>
+
+- generating a Gantt chart
+
+  <img src="public/gantt.gif" title="gantt" alt="snippet of generating a Gantt chart." />
+
+</br>
+
+- user session expiration
+
+  <img src="public/session.gif" title="gantt" alt="snippet of user session expiration." />
+
+</br>
+
+
+
+edycja
+validacja
+dokumenty
+szablony dokumentow
 
