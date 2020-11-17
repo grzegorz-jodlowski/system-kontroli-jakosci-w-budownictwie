@@ -46,6 +46,7 @@ The website is an extensive application that helps to manage projects in constru
 - securing access to the website resources without logging in,
 - cooperate with a team of programmers (including external backend developers),
 - work with user sessions,
+- creating advanced form validation,
 
 
 
@@ -95,16 +96,36 @@ The website is an extensive application that helps to manage projects in constru
 
 </br>
 
-- user session expiration
+- editing a project, schedule, step, etc.
 
-  <img src="public/session.gif" title="gantt" alt="snippet of user session expiration." />
+  <img src="public/edit.gif" title="edit" alt="snippet of editing a project, schedule, step, etc." />
 
 </br>
 
+- reordering steps and nesting levels
 
+  <img src="public/steps.gif" title="steps" alt="snippet of reordering steps and nesting levels" />
 
-edycja
-validacja
-dokumenty
-szablony dokumentow
+</br>
 
+- adding document templates and their fields
+
+  <img src="public/docstemplates.gif" title="docstemplates" alt="snippet of adding document templates and their fields" />
+
+</br>
+
+- adding steps and their documents (with fields)
+
+  <img src="public/addstepsanddocs.gif" title="addstepsanddocs" alt="snippet of adding steps and their documents" />
+
+</br>
+
+- forms validation
+
+  <img src="public/validation.gif" title="validation" alt="snippet of forms validation" />
+
+</br>
+
+- user session expiration
+
+  <img src="public/session.gif" title="session" alt="snippet of user session expiration." />
