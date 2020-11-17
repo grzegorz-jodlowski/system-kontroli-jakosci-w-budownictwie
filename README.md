@@ -52,5 +52,11 @@ The website is an extensive application that helps to manage projects in constru
 
 ## <a name="feat"></a>Features
 
-- create
+- language versions of the website
+
+  <img src="public/translation.gif" title="translation" alt="snippet of translation switcher." />
+
+</br>
+
+-
 
