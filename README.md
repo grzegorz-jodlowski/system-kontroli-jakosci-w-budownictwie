@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/main.gif" title="Quality control system in construction industry" alt="snippet of Quality control system in construction industry website.">
+<img src="public/main3.gif" title="Quality control system in construction industry" alt="snippet of Quality control system in construction industry website.">
 </p>
 
 </br>
@@ -20,7 +20,7 @@
 
 ## <a name="ab"></a>What's this project about?
 
-The website is an extensive application that helps to manage projects in construction. Supports adding, editing and designing projects, schedules, schedule steps and managing human resources (employees, users). It is possible to create document templates and add them to the schedule steps. It allows track the progress of work on a given project (also thanks to Gantt charts created on the fly). There is also a separate functionality for creating modules that allow you to completely rebuild the entire application. By default it supports the Polish language, but the English version of the website is also implemented.
+The website is an extensive application that helps to manage projects in construction. Supports adding, editing and designing projects, schedules, schedule steps and managing human resources (employees, users). It is possible to create document templates and add them to the schedule steps. It allows track the progress of work on a given project (also thanks to Gantt charts created on the fly). There is also a separate functionality for creating modules that allow you to completely rebuild the entire application. By default it supports the Polish language, but the English version of the website is also implemented. Alerts are automatically displayed if a given schedule or step is delayed. The "Reports" module allows generate analyzes of exceedances or advancement of project data. Simple CRM has also been implemented.
 
 </br>
 
@@ -56,19 +56,19 @@ The website is an extensive application that helps to manage projects in constru
 
 - language versions of the website
 
-  <img src="public/translation2.gif" title="translation" alt="snippet of translation switcher." />
+  <img src="public/translation.gif" title="translation" alt="snippet of translation switcher." />
 
 </br>
 
 - speed dial menu
 
-  <img src="public/speeddial.gif" title="speeddial" alt="snippet of speed dial menu." />
+  <img src="public/speeddial2.gif" title="speeddial" alt="snippet of speed dial menu." />
 
 </br>
 
 - dropdown menu and profile edit page
 
-  <img src="public/profile.gif" title="profile" alt="snippet of profile page." />
+  <img src="public/profile2.gif" title="profile" alt="snippet of profile page." />
 
 </br>
 
@@ -129,3 +129,23 @@ The website is an extensive application that helps to manage projects in constru
 - user session expiration
 
   <img src="public/session.gif" title="session" alt="snippet of user session expiration." />
+
+</br>
+
+- list of alerts
+
+  <img src="public/alertslist.gif" title="session" alt="snippet of alerts list." />
+
+</br>
+
+- alert on main page and marking as done
+
+  <img src="public/alert.gif" title="session" alt="snippet of alert." />
+
+</br>
+
+- edit alert
+
+  <img src="public/alertedit.gif" title="session" alt="snippet of edit alert." />
+
+</br>
