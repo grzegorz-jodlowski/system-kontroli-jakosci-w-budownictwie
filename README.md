@@ -74,61 +74,61 @@ The website is an extensive application that helps to manage projects in constru
 
 - generating modules for a new application
 
-  <img src="public/modules.gif" title="modules" alt="snippet of module generator." />
+  <img src="public/modules2.gif" title="modules" alt="snippet of module generator." />
 
 </br>
 
 - adding a new project
 
-  <img src="public/projectadd.gif" title="projectadd" alt="snippet of adding project." />
+  <img src="public/projectadd2.gif" title="projectadd" alt="snippet of adding project." />
 
 </br>
 
 - importing schedules and steps into the project
 
-  <img src="public/import.gif" title="import" alt="snippet of importing schedules and steps into the project." />
+  <img src="public/import2.gif" title="import" alt="snippet of importing schedules and steps into the project." />
 
 </br>
 
 - generating a Gantt chart
 
-  <img src="public/gantt.gif" title="gantt" alt="snippet of generating a Gantt chart." />
+  <img src="public/gantt2.gif" title="gantt" alt="snippet of generating a Gantt chart." />
 
 </br>
 
 - editing a project, schedule, step, etc.
 
-  <img src="public/edit.gif" title="edit" alt="snippet of editing a project, schedule, step, etc." />
+  <img src="public/edit2.gif" title="edit" alt="snippet of editing a project, schedule, step, etc." />
 
 </br>
 
 - reordering steps and nesting levels
 
-  <img src="public/steps.gif" title="steps" alt="snippet of reordering steps and nesting levels" />
+  <img src="public/steps2.gif" title="steps" alt="snippet of reordering steps and nesting levels" />
 
 </br>
 
 - adding document templates and their fields
 
-  <img src="public/docstemplates.gif" title="docstemplates" alt="snippet of adding document templates and their fields" />
+  <img src="public/docstemplates2.gif" title="docstemplates" alt="snippet of adding document templates and their fields" />
 
 </br>
 
 - adding steps and their documents (with fields)
 
-  <img src="public/addstepsanddocs.gif" title="addstepsanddocs" alt="snippet of adding steps and their documents" />
+  <img src="public/addstepsanddocs2.gif" title="addstepsanddocs" alt="snippet of adding steps and their documents" />
 
 </br>
 
 - forms validation
 
-  <img src="public/validation.gif" title="validation" alt="snippet of forms validation" />
+  <img src="public/validation2.gif" title="validation" alt="snippet of forms validation" />
 
 </br>
 
 - user session expiration
 
-  <img src="public/session.gif" title="session" alt="snippet of user session expiration." />
+  <img src="public/session3.gif" title="session" alt="snippet of user session expiration." />
 
 </br>
 
@@ -147,5 +147,17 @@ The website is an extensive application that helps to manage projects in constru
 - edit alert
 
   <img src="public/alertedit.gif" title="session" alt="snippet of edit alert." />
+
+</br>
+
+- crm
+
+  <img src="public/crm.gif" title="session" alt="snippet of edit alert." />
+
+</br>
+
+- sample report
+
+  <img src="public/report.gif" title="session" alt="snippet of edit alert." />
 
 </br>
